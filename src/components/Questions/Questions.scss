@@ -1,0 +1,36 @@
+.back-questions {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffff;
+  padding-top: 78px;
+  padding-bottom: 80px;
+}
+
+.que-form {
+  display: flex;
+  flex-direction: row;
+}
+
+.ques {
+  padding-left: 120px;
+}
+
+.question-we {
+  margin: 2px 50px 91px 0;
+  font-family: Teko;
+  font-size: 60px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: black;
+  max-width: 300px;
+  text-align: start;
+}
+
+// .formQ {
+//   width: 1200px;
+// }
